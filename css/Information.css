@@ -1,0 +1,154 @@
+﻿body {
+    font-family:新宋体;
+    position:absolute;
+    height:100%;
+    min-height:400px;
+    width:100%;
+    min-width:1100px;
+    word-break:break-all;
+}
+#form1{
+    /*background-color:darkgray;*/
+    position:absolute;
+    top:25%;
+    left:25%;
+    width:74%; 
+    border-top:solid #e26228;
+    font-weight:normal;
+    /*font-family:'Microsoft YaHei';*/
+    line-height:1.5em;
+    font-size:medium;
+}
+#ReplyAdvice_DataList_DataList,#AllMyAdvice_DataList{
+    width:100%;
+}
+#MyInformation_div,#OtherInformation_div,#ModifyMyInformation_div,#ModifyMyPassword_div{
+    padding: 0% 3% 2% 2%;
+    border: solid 1px #e0e0e0;
+    border-radius: 3px;
+}
+#JS_CheckPasswordConfirm_div
+{
+    color:red;
+}
+.CommentTime{
+    font-size:smaller;
+    color:darkgray;
+    text-align:right;
+}
+.ReplyRegion{
+    width:100%
+}
+
+.labeluncheck{
+    color:#666666;
+	background-color: #ffffff;
+	border: 1px solid #C1CACA;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+	padding: 5px;
+	border-radius: 3px;
+	display: inline-block;
+	margin-right: 10px;
+
+}
+.labeluncheck:hover{
+    cursor:pointer;
+    color:#e26228;
+    border: 1px solid #e26228;
+}
+.labelchecked{
+    color:#ffffff;
+	background-color: #e26228;
+	border: 1px solid #C1CACA;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+	padding: 5px;
+	border-radius: 3px;
+	display: inline-block;
+	margin-right: 10px;
+}
+.labelchecked:hover{
+    cursor:pointer;
+}
+.MyTag{
+    display :none;
+}
+
+.CommentTag{
+  background-color: #c4c4c4;
+  color: #000000;
+  padding: 7px 10px;
+  margin: 5px 6px 5px 0;
+  border-radius: 3px;
+  display: inline-block; 
+  /*font-weight:bold;*/
+}
+#SubmitComment{
+    text-align:right;
+    /*object-position:right;*/
+}
+
+.Username{
+    color:#e26228;
+    font-size:large;
+    line-height:2em;
+}
+.Username:hover{
+    text-decoration:underline;
+}
+
+h1 {
+  position:absolute;
+  top:2%;
+  left:5%;
+  color: #e26228; 
+  font-weight:900; 
+  font-size:50px;
+  /*text-align:center;*/
+}
+h2{
+    font-weight:800;
+    font-size:20px;
+}
+h3{
+    font-weight:800;
+    font-size:20px;
+    color:#e26228;
+    border-left:solid black;
+}
+h4{
+    font-weight:950;
+    font-size:25px;
+    color:black;
+    border-left:solid #e26228;
+}
+h5{
+    font-weight:950;
+    font-size:25px;
+    color:#e26228;
+    border-left:solid black;
+}
+h6{
+   font-weight:800;
+    font-size:20px;
+    color:black;
+    border-left:solid #e26228;
+}
+a{
+    font-size:medium;
+    color:#898989;
+    text-decoration:none;
+    /*font-size:small;*/
+    font-family:STSong;
+}
+a:hover{
+    text-decoration:underline;
+    color:#e26228;
+    /*background: transparent;*/
+    text-decoration: none;
+} 
+
+input[type="checkbox"]{appearance: none; -webkit-appearance: none;outline: none;display:none}
+label{width:50px;height:5px;display:inline-block;cursor:pointer;}
+label input[type="checkbox"] + span{width:20px;height:18px;display:inline-block;background:url(http://sandbox.runjs.cn/uploads/rs/216/0y89gzo2/checkbox_01.gif)  no-repeat;background-position:0 0;}
+label input[type="checkbox"]:checked + span{background-position:0 -21px}
+

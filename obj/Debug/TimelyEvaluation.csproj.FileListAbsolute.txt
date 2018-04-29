@@ -1,0 +1,99 @@
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\ApplicationInsights.config
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\csc.exe
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\System.Collections.Immutable.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\System.Reflection.Metadata.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\vbc.exe
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\VBCSCompiler.exe
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\VBCSCompiler.exe.config
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.dll.config
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.pdb
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Agent.Intercept.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.DependencyCollector.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Web.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.WindowsServer.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.ApplicationInsights.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.DependencyCollector.xml
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Web.xml
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.WindowsServer.xml
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.ApplicationInsights.xml
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.dll
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.pdb
+E:\2017现代软工\团队项目\Website\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\ApplicationInsights.config
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\csc.exe
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\vbc.exe
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\VBCSCompiler.exe
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.dll.config
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.pdb
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Web.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Web.xml
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.dll
+C:\Users\lczpig\Documents\Tencent Files\495241044\FileRecv\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.pdb
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\ApplicationInsights.config
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\csc.exe
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\System.Collections.Immutable.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\System.Reflection.Metadata.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\vbc.exe
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\VBCSCompiler.exe
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\roslyn\VBCSCompiler.exe.config
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.dll.config
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\TimelyEvaluation.pdb
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Agent.Intercept.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.DependencyCollector.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Web.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.WindowsServer.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.ApplicationInsights.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.DependencyCollector.xml
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.Web.xml
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.AI.WindowsServer.xml
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.ApplicationInsights.xml
+G:\website\TimelyEvaluation\TimelyEvaluation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\website\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.csprojResolveAssemblyReference.cache
+G:\website\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.dll
+G:\website\TimelyEvaluation\TimelyEvaluation\obj\Debug\TimelyEvaluation.pdb

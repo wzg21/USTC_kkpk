@@ -1,0 +1,166 @@
+﻿body {
+    font-family:新宋体;
+    position:absolute;
+    height:100%;
+    min-height:400px;
+    width:100%;
+    min-width:1100px;
+    word-break:break-all;
+}
+#CourseInfo,#MyadviceInfo{
+    /*background-color:darkgray;*/
+    position:absolute;
+    top:25%;
+    /*float:left;*/ 
+    left:25%;
+    width:74%;
+    /*min-width:600px;*/ 
+    border-top:solid #e26228;
+    font-weight:normal;
+    /*font-family:'Microsoft YaHei';*/
+    line-height:1.5em;
+    font-size:large;
+}
+#CourseIntroduct,#MyComment,#AllComments,#AllCourseIntroduct,#MyallComment,#MyadviceIntroduct{
+    padding: 0% 3% 2% 2%;
+    border: solid 1px #e0e0e0;
+    border-radius: 3px;
+}
+.OneComment{
+    border-radius: 3px;
+    padding: 3% 3% 2% 2%;
+    border: solid 1px #e0e0e0;
+    text-align:left;
+}
+#MyCommentReplyComment_DataList,#ReplyComment_DataList,#AllComment_DataList,
+#ReplyAdvice_DataList,#AllAdvice_DataList,#AllMyAdvice_DataList{
+    width:100%;
+    font-size:large;
+}
+.ReplyRegion{
+    width:100%
+}
+.Username{
+    color:#e26228;
+    font-size:large;
+    /*font-weight:bold;*/
+    line-height:2em;
+    /*text-decoration:underline;*/
+    /*font-family:微软雅黑;*/
+}
+.Username:hover{
+    text-decoration:underline;
+}
+.Button0{
+    text-align:center;
+    color:#666666;
+    background-color:#ffffff;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #dbdbdb;
+    padding:6px;
+    display:inline;
+}
+.Button0:hover{
+    color:#e26228;
+    cursor:pointer;
+    border: 1px solid #e26228;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #dbdbdb;
+}
+.Like_Button{
+    background:url(../Imgs/zan.png);
+    height:20px;
+    width:20px;
+    border:0px;
+}
+.Like_Button:hover{
+    cursor:pointer;
+}
+.CommentTag{
+  background-color: #c4c4c4;
+  color: #000000;
+  padding: 7px 10px;
+  margin: 5px 6px 5px 0;
+  border-radius: 3px;
+  display: inline-block; 
+  /*font-weight:bold;*/
+}
+input[type="checkbox"]{appearance: none; -webkit-appearance: none;outline: none;display:none}
+label{width:50px;height:5px;display:inline-block;cursor:pointer;}
+label input[type="checkbox"] + span{width:20px;height:18px;display:inline-block;background:url(http://sandbox.runjs.cn/uploads/rs/216/0y89gzo2/checkbox_01.gif)  no-repeat;background-position:0 0;}
+label input[type="checkbox"]:checked + span{background-position:0 -21px}
+.TextBox0{
+    height:100px;
+    width:95%;
+    font-size:large;
+}
+.CommentTime{
+    font-size:smaller;
+    color:darkgray;
+    text-align:right;
+}
+a{
+    font-size:medium;
+    color:#898989;
+    text-decoration:none;
+    /*font-size:small;*/
+    font-family:STSong;
+}
+
+a:hover{
+    text-decoration:underline;
+    color:#e26228;
+    /*background: transparent;*/
+    text-decoration: none;
+} 
+h1 {
+  position:absolute;
+  top:0%;
+  left:5%;
+  color: #e26228; 
+  font-weight:900; 
+  font-size:50px;
+  /*text-align:center;*/
+}
+h2{
+    font-weight:800;
+    font-size:20px;
+}
+.labeluncheck{
+    color:#666666;
+	background-color: #ffffff;
+	border: 1px solid #C1CACA;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+	border-radius: 3px;
+	display: inline;
+    padding: 7px 10px;
+    margin: 5px 6px 5px 0;
+    line-height:3em;
+}
+.labeluncheck:hover{
+    cursor:pointer;
+    color:#e26228;
+    border: 1px solid #e26228;
+}
+.labelchecked{
+    color:#ffffff;
+	background-color: #e26228;
+	border: 1px solid #C1CACA;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+	border-radius: 3px;
+	display: inline;
+    padding: 7px 10px;
+    margin: 5px 6px 5px 0;
+    line-height:3em;
+}
+.labelchecked:hover{
+    cursor:pointer;
+}
+.MyTag{
+    display :none;
+}
+#SubmitComment,#SubmitIntroModify{
+    text-align:right;
+    /*object-position:right;*/
+}
